@@ -1,0 +1,1 @@
+from .lotrsdk import LotrSDK

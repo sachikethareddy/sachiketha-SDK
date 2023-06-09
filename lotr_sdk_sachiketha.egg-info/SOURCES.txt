@@ -1,0 +1,8 @@
+README.md
+setup.py
+./lotrsdk/__init__.py
+./lotrsdk/lotrsdk.py
+lotr_sdk_sachiketha.egg-info/PKG-INFO
+lotr_sdk_sachiketha.egg-info/SOURCES.txt
+lotr_sdk_sachiketha.egg-info/dependency_links.txt
+lotr_sdk_sachiketha.egg-info/top_level.txt
